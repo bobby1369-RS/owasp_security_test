@@ -1,10 +1,10 @@
-SQL Injection (A1): Not Vulnerable
-XSS (A7): Not Vulnerable
-Sensitive Data Exposure (A3): Not Vulnerable
-Security Misconfiguration (A6): Not Vulnerable
-Broken Authentication (A2): Vulnerable
-Broken Access Control (A5): Not Vulnerable
-XXE (A4): Not Vulnerable
-Insecure Deserialization (A8): Not Vulnerable
-Known Vulnerabilities (A9): Vulnerable
-Insufficient Logging & Monitoring (A10): Not Vulnerable
+Broken Access Control (A01): Safe
+Cryptographic Failures (A02): Safe
+Injection (A03): Safe
+Insecure Design (A04): Safe
+Security Misconfiguration (A05): Safe
+Outdated Components (A06): Safe
+Authentication Failures (A07): VULNERABLE
+Data Integrity Failures (A08): Safe
+Logging and Monitoring Failures (A09): Safe
+Server-Side Request Forgery (A10): Safe
