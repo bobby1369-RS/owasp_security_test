@@ -6,16 +6,16 @@ A Python-based custom vulnerability scanner for web applications. This tool chec
 
 ## 🚀 Features
 
-- ✅ SQL Injection (A1)
-- ✅ Broken Authentication (A2)
-- ✅ Sensitive Data Exposure (A3)
-- ✅ XML External Entities (XXE) (A4)
-- ✅ Broken Access Control (A5)
-- ✅ Security Misconfiguration (A6)
-- ✅ Cross Site Scripting (XSS) (A7)
-- ✅ Insecure Deserialization (A8)
-- ✅ Components with Known Vulnerabilities (A9)
-- ✅ Insufficient Logging & Monitoring (A10)
+- ✅ Broken Access Control (A1)
+- ✅ Cryptographic Failures (A2)
+- ✅ Injection (A3)
+- ✅ Insecure Design (A4)
+- ✅ Security Misconfiguration (A5)
+- ✅ Vulnerable and outdated Components (A6)
+- ✅ Identifiaction and Authentication Failures (A7)
+- ✅ Software And Integrity Failures (A8)
+- ✅ Security Logging And Monitoring Failures (A9)
+- ✅ Server-side Request Forgery (SSRF) (A10)
 
 ---
 
